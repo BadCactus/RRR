@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/badcactus/RRR/issues"
   },
-  "homepage": "https://github.com/badcactus/RRR#readme"
+  "homepage": "https://github.com/badcactus/RRR#readme",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
 }
