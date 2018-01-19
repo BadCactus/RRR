@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/badcactus/RRR#readme",
   "dependencies": {
+    "frisby": "^2.0.11",
     "pg": "^7.4.1"
   }
 }
